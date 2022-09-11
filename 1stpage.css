@@ -1,0 +1,137 @@
+.topbar{
+    background-color: rgb(6, 54, 117);
+}
+body{
+    background-image: radial-gradient(rgb(75, 75, 75),rgb(22, 22, 22));
+}
+
+body{
+    font-family: 'DynaPuff', cursive;
+    color:rgb(22, 22, 22)
+}
+
+.welcome{
+    background-color:rgb(125, 196, 243);
+    border: 1px solid rgb(58, 58, 58);
+}
+
+div.theimg::before {
+    content: url(https://static.wikia.nocookie.net/logopedia/images/4/43/SubSurf2012Logo.png/revision/latest?cb=20220730103956);
+ 
+}
+
+
+button{
+    background-color:rgb(45, 134, 250);
+    border: 1px solid lightblue;
+color: black;
+font-family: 'DynaPuff', cursive;
+}
+
+
+
+.topbar a{
+   
+    color : white;
+    float: left;
+text-align : center;
+padding : 25px 20px 10px 10px;
+font-size : 19px;
+text-decoration: none;
+background-image: linear-gradient(rgb(51, 134, 230), rgb(19, 90, 170));
+border: 1px solid white;
+}
+
+.webimg{
+float:right;
+}
+
+.block{
+
+}
+.block2{
+    float:right;
+}
+
+.resize{
+ padding: 4px;
+    height:200px;
+    width:49%;
+    float:left;
+    border : 2px solid #ffffff; 
+    background-image: url("https://media.istockphoto.com/photos/vintage-retro-grungy-background-design-and-pattern-texture-picture-id656453072?k=20&m=656453072&s=612x612&w=0&h=txuUmEpOZqegdZuQw8ibPeopn3oHW6kmpKZZAChvZjY=");
+    background-size: 700px 400px;
+    background-repeat:no-repeat;
+    color:white;
+}
+
+.resize2{
+ 
+    height:100px;
+    width:660px;
+    float:left;
+    border : 2px solid #ffffff; 
+ background-color: rgb(79, 108, 236);
+    color:white;
+    font-size:30px;
+}
+
+.footer{
+    padding: 4px;
+       height:330px;
+       width:99%;
+       float:left;
+       border : 2px solid #ffffff; 
+       background-image: url("https://thumbs.dreamstime.com/b/purple-textured-background-closeup-180294974.jpg");
+       background-size: 1400px 400px;
+       background-repeat:no-repeat;
+       color:white;
+       text-align:center;
+   }
+   
+   .readable{
+    background-color:rgb(149, 92, 241);
+       
+padding:5px;
+}
+
+.o{
+    padding:5px;
+    background-color:rgb(0, 0, 216)
+}
+.w{
+    padding:2px;
+    background-color:rgb(1, 184, 31)
+}
+
+.e{
+    padding:1px;
+    background-color:rgb(187, 1, 1)
+}
+
+.n{
+    padding:3px;
+    background-color:rgb(162, 0, 255)
+}
+
+a{
+    margin-left: 20px;
+}
+.history{
+    margin-left: 20px;
+}
+.contact{
+    margin-left: 20px;
+}
+.info{
+    margin-left: 20px;
+}
+.other{
+    margin-left: 20px;
+}
+.help{
+    margin-left: 20px;
+}
+.suggest{
+    margin-left: 20px;
+}
